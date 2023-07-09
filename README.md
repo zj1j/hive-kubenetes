@@ -1,5 +1,5 @@
 ## 一、概述
-前面一篇文章已经很详细的介绍了Hadoop on k8s部署了，这里主要针对部署时可能会调整的地方和注意事项进行讲解，想详细了解详细部署过程可参考我上一篇文章：[Hadoop on k8s 编排部署进阶篇](https://liugp.blog.csdn.net/article/details/131487664)
+前面一篇文章已经很详细的介绍了Hadoop on k8s部署了，这里主要针对部署时可能会调整的地方和注意事项进行讲解，想详细了解详细部署过程可参考我上一篇文章：[Hadoop on k8s 编排部署进阶篇](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247488362&idx=1&sn=313fb83a31976228508618c552c94f58&chksm=ead0ef83dda76695af67ac3f569d8ea2576af5cb7909578b5fd77a07cd3656eab4c436b78b89#rd)
 
 ![输入图片说明](image/1.png)
 ## 二、快速部署步骤如下
